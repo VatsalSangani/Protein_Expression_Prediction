@@ -33,3 +33,15 @@ Protein expression prediction has significant applications in biotechnology, pha
 - Implemented multiple machine learning models
 - Evaluated models using performance metrics (e.g., accuracy, precision, recall)
 - Performed hyperparameter tuning for optimization
+
+### 4. Results and Insights
+- Analysis of feature importance
+- Predictions and model interpretations
+
+## Installation
+
+Follow these steps to set up the project on your local system:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/VatsalSangani/Protein_Expression_Prediction.git
